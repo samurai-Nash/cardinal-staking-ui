@@ -24,7 +24,7 @@ Pools by default will have no metadata. View the section titled "Customizing you
 
 **Pool Creation Parameters:**
 
-```typescript
+```typescript 
 export type StakePoolParams {
     requiresCollections?: PublicKey[];
     requiresCreators?: PublicKey[];
