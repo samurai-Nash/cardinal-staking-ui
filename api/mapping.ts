@@ -947,7 +947,7 @@ export const stakePoolMetadatas: StakePoolMetadata[] = [
     receiptType: ReceiptType.Original,
     hostname: 'stake.1space.me',
     hideFooter: true,
-    imageUrl: 'https://1space.me/images/os-logo-white.jpeg',
+    imageUrl: 'https://1space.me/images/logo-new-main.png',
     maxStaked: 300,
     links: [
       {
