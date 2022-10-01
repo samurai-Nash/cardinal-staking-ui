@@ -29,9 +29,9 @@ export const HeroLarge: React.FC = () => {
         `}
       />
       {config?.imageUrl ? (
-        <div className="relative flex w-1/4 grow items-center justify-center rounded-xl">
+        <div className="relative flex w-1/4 grow items-center justify-center">
           <img
-            className={`max-h-[200px] w-auto rounded-xl ${
+            className={`max-h-[50px] w-auto ${
               config?.logoPadding && 'p-8'
             }`}
             src={config?.imageUrl}
