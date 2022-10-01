@@ -951,6 +951,10 @@ export const stakePoolMetadatas: StakePoolMetadata[] = [
     maxStaked: 300,
     links: [
       {
+        text: 'HOME',
+        value: 'https://1space.me/',
+      },
+      {
         text: 'ONEHERO NFT',
         value: 'https://nft.1space.me/',
       },
@@ -965,7 +969,7 @@ export const stakePoolMetadatas: StakePoolMetadata[] = [
     },
     colors: {
       primary: '#121429',
-      secondary: '#00b7ff',
+      secondary: '#519ef7',
       accent: '#2b3645',
       fontColor: '#FFFFFF',
     },
