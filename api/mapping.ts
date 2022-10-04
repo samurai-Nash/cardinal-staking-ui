@@ -961,12 +961,20 @@ export const stakePoolMetadatas: StakePoolMetadata[] = [
         value: 'https://1space.me/',
       },
       {
-        text: 'ONEHERO NFT',
+        text: 'TRADING',
+        value: 'https://1space.me/#token',
+      },
+      {
+        text: 'NFT STAKING',
+        value: 'https://stake.1space.me/',
+      },
+      {
+        text: 'NFT COLLECTION',
         value: 'https://nft.1space.me/',
       },
       {
-        text: 'MINT',
-        value: 'https://nft.1space.me/#mint',
+        text: 'DOCS',
+        value: 'https://docs.1space.me/',
       },
     ],
     styles: {
