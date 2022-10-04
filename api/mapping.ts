@@ -941,44 +941,7 @@ export const stakePoolMetadatas: StakePoolMetadata[] = [
       fontColor: '#e8e8e8',
     },
   },
-  {
-    name: 'onespace',
-    displayName: 'ONESPACE NFT STAKING',
-    stakePoolAddress: new PublicKey(
-      'FBTqpPynmDdVsYP4eep6pJonwMsFoVhaXcCpah3yYLZY'
-    ),
-    websiteUrl: 'https://1space.me/',
-    receiptType: ReceiptType.Original,
-    tokenStandard: TokenStandard.NonFungible,
-    hostname: 'stake.1space.me',
-    hideFooter: true,
-    imageUrl: 'https://1space.me/images/logo-new-main.png',
-    maxStaked: 300,
-    links: [
-      {
-        text: 'HOME',
-        value: 'https://1space.me/',
-      },
-      {
-        text: 'ONEHERO NFT',
-        value: 'https://nft.1space.me/',
-      },
-      {
-        text: 'MINT',
-        value: 'https://nft.1space.me/#mint',
-      },
-    ],
-    styles: {
-      fontFamily: 'Industry, sans-serif',
-      fontWeight: 400,
-    },
-    colors: {
-      primary: '#121429',
-      secondary: '#519ef7',
-      accent: '#2b3645',
-      fontColor: '#FFFFFF',
-    },
-  },
+  
   {
     name: 'onespace-1sp',
     displayName: 'ONESPACE 1SP STAKING',
