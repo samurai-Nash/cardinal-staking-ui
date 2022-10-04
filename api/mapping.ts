@@ -106,17 +106,19 @@ export const stakePoolMetadatas: StakePoolMetadata[] = [
   // },
 
   {
-    name: 'SHADIES',
-    displayName: 'SHADIES BOOSTED STAKING',
+    name: 'shadiesboosted',
+    displayName: 'SHADIES BOOSTED 2X STAKING',
     stakePoolAddress: new PublicKey(
       '29MgtLuX8ByGMZoreUoY7hsP2YY935gJ3wRB1fhiSF8o'
     ),
-    hostname: 'staking2x.theshadyclass.xyz',
+    hostname: 'https://staking2x.theshadyclass.xyz',
     hidden: false,
     notFound: false,
-    imageUrl: 'https://raw.githubusercontent.com/flipthetip/test-tsc/main/newth.png',
+    imageUrl:
+      'https://raw.githubusercontent.com/flipthetip/test-tsc/main/newth.png',
     // secondaryImageUrl: 'https://raw.githubusercontent.com/flipthetip/test-tsc/main/arx.png',
-    backgroundImage: 'https://raw.githubusercontent.com/flipthetip/test-tsc/main/newbg.png',
+    backgroundImage:
+      'https://raw.githubusercontent.com/flipthetip/test-tsc/main/newbg.png',
     styles: {
       fontFamily: 'Franklin Gothic Medium',
       // fontWeight: 500,
@@ -134,17 +136,19 @@ export const stakePoolMetadatas: StakePoolMetadata[] = [
     receiptType: ReceiptType.Original,
   },
   {
-    name: 'SHADIES',
+    name: 'shadiesstandard',
     displayName: 'SHADIES STANDARD STAKING',
     stakePoolAddress: new PublicKey(
       'zNt5nnEaL87rG9DT2cxvdVMf8sLBe6qEuZK8D5K4r9M'
     ),
-    hostname: 'staking1x.theshadyclass.xyz',
+    hostname: 'https://staking1x.theshadyclass.xyz',
     hidden: false,
     notFound: false,
-    imageUrl: 'https://raw.githubusercontent.com/flipthetip/test-tsc/main/newth.png',
+    imageUrl:
+      'https://raw.githubusercontent.com/flipthetip/test-tsc/main/newth.png',
     // secondaryImageUrl: 'https://raw.githubusercontent.com/flipthetip/test-tsc/main/arx.png',
-    backgroundImage: 'https://raw.githubusercontent.com/flipthetip/test-tsc/main/newbg.png',
+    backgroundImage:
+      'https://raw.githubusercontent.com/flipthetip/test-tsc/main/newbg.png',
     styles: {
       fontFamily: 'Franklin Gothic Medium',
       // fontWeight: 500,
@@ -1090,7 +1094,7 @@ export const stakePoolMetadatas: StakePoolMetadata[] = [
     hideFooter: true,
     websiteUrl: 'https://www.rebellionbots.io',
     receiptType: ReceiptType.Original,
-    maxStaked: 801, // update with collection size
+    maxStaked: 1083, // update with collection size
     imageUrl: '/logos/rebellion-bots.jpeg',
     secondaryImageUrl: '/logos/secondary-rebellion-bots.png',
     tokenStandard: TokenStandard.NonFungible,
