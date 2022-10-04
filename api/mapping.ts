@@ -961,8 +961,20 @@ export const stakePoolMetadatas: StakePoolMetadata[] = [
         value: 'https://1space.me/',
       },
       {
-        text: 'TRADING',
+        text: 'BUY / SELL',
         value: 'https://1space.me/#token',
+      },
+      {
+        text: 'FARMS',
+        value: 'https://raydium.io/farms/?tab=Ecosystem&farmid=C7KtyxWPukyvkxWFybuDDd92ofG2jZa9vFjAfhY7ymQt',
+      },
+      {
+        text: 'SWAP',
+        value: 'https://app.1space.me/',
+      },
+      {
+        text: 'TRADING',
+        value: 'https://dex.1space.me/#/market/4kTKiuKtuFaH65sY7A7WgVV1PS5YDUyntPcmaL5HzL44',
       },
       {
         text: 'NFT STAKING',
