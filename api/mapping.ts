@@ -953,7 +953,7 @@ export const stakePoolMetadatas: StakePoolMetadata[] = [
     tokenStandard: TokenStandard.Fungible,
     hostname: 'coinstake.1space.me',
     hideFooter: true,
-    imageUrl: 'https://1space.me/images/logo-new-main.png',
+    imageUrl: 'https://1space.me/images/stake-spaceman1.png',
     
     links: [
       {
