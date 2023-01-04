@@ -24,9 +24,9 @@ export const ENVIRONMENTS: Environment[] = [
   {
     label: 'mainnet-beta',
     primary:
-      process.env.MAINNET_PRIMARY || 'https://solana-api.syndica.io/access-token/d3KZa1fg1Eyg9QAu9nVxRj6ohfqr2WHcfCa6ghPsenrCJoJrgwSxocLYOfyNQkyt/rpc',
+      process.env.MAINNET_PRIMARY || 'https://rpc.ankr.com/solana',
     secondary:
-      process.env.MAINNET_SECONDARY || 'https://solana-api.syndica.io/access-token/d3KZa1fg1Eyg9QAu9nVxRj6ohfqr2WHcfCa6ghPsenrCJoJrgwSxocLYOfyNQkyt/rpc',
+      process.env.MAINNET_SECONDARY || 'https://rpc.ankr.com/solana',
   },
   {
     label: 'testnet',
