@@ -999,6 +999,9 @@ export const stakePoolMetadatas: StakePoolMetadata[] = [
       accent: '#2b3645',
       fontColor: '#FFFFFF',
     },
+    
+    backgroundImage:
+    'https://i.ibb.co/KzLDpfX/Home-background.png',
   },
   {
     name: 'trust-in-pat',
